@@ -1,7 +1,7 @@
 
 // Initialize array
 let helloArray = Array(7).fill("Hello");
-console.log(helloArray.length === 7, helloArray);
+console.log(helloArray.length, helloArray);
 
 // Update array
 helloArray[0] = "Hi";
